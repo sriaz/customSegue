@@ -13,6 +13,7 @@
 		A02E5BFA1A84AC8700629336 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A02E5BF91A84AC8700629336 /* Images.xcassets */; };
 		A02E5BFD1A84AC8700629336 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A02E5BFB1A84AC8700629336 /* LaunchScreen.xib */; };
 		A02E5C091A84AC8700629336 /* customSegueTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02E5C081A84AC8700629336 /* customSegueTests.swift */; };
+		A02E5C131A84AD6200629336 /* Middle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02E5C121A84AD6200629336 /* Middle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A02E5C021A84AC8700629336 /* customSegueTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = customSegueTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A02E5C071A84AC8700629336 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A02E5C081A84AC8700629336 /* customSegueTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customSegueTests.swift; sourceTree = "<group>"; };
+		A02E5C121A84AD6200629336 /* Middle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Middle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				A02E5BF21A84AC8700629336 /* AppDelegate.swift */,
 				A02E5BF41A84AC8700629336 /* ViewController.swift */,
 				A02E5BF61A84AC8700629336 /* Main.storyboard */,
+				A02E5C121A84AD6200629336 /* Middle.swift */,
 				A02E5BF91A84AC8700629336 /* Images.xcassets */,
 				A02E5BFB1A84AC8700629336 /* LaunchScreen.xib */,
 				A02E5BF01A84AC8700629336 /* Supporting Files */,
@@ -214,6 +217,7 @@
 			files = (
 				A02E5BF51A84AC8700629336 /* ViewController.swift in Sources */,
 				A02E5BF31A84AC8700629336 /* AppDelegate.swift in Sources */,
+				A02E5C131A84AD6200629336 /* Middle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
